@@ -5,6 +5,7 @@ This project predicts whether a telecom customer is likely to churn based on the
 ---
 
 ## Repository Structure
+```
 ├── telco_train.csv           # Training data
 ├── telco_test.csv            # Test data (without labels)
 ├── predictions.csv           # Final predicted churn probabilities
@@ -15,7 +16,7 @@ This project predicts whether a telecom customer is likely to churn based on the
 ├── test_notebook.ipynb       # Prediction and visualization
 ├── requirements.txt          # Project dependencies
 └── README.md                 # This file
-
+```
 
 ---
 
