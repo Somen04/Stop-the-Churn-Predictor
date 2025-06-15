@@ -79,6 +79,12 @@ This project uses a structured machine learning pipeline to predict customer chu
 
 - **Model Interpretability:**
   - Visualized feature importance using Logistic Regression coefficients
+  
+##  Video Presentation
+
+Watch the full demo and explanation here:
+
+👉 [Watch on YouTube](https://youtu.be/_c9O3tzNFQ4?si=koOqyPo6JGXlnA54)
 
 ## Author
 
