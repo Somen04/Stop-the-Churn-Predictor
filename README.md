@@ -5,7 +5,17 @@ This project predicts whether a telecom customer is likely to churn based on the
 ---
 
 ## Repository Structure
-<pre> 📦 Stop-the-Churn-Predictor/ ├── telco_train.csv # Training data ├── telco_test.csv # Test data (without labels) ├── predictions.csv # Final predicted churn probabilities ├── model.pkl # Trained Logistic Regression model ├── scaler.pkl # Scaler for numeric features ├── label_encoders.pkl # Encoders for categorical features ├── train_notebook.ipynb # Full training pipeline ├── test_notebook.ipynb # Prediction and visualization ├── requirements.txt # Dependencies list └── README.md # This file </pre>
+├── telco_train.csv           # Training data
+├── telco_test.csv            # Test data (without labels)
+├── predictions.csv           # Final predicted churn probabilities
+├── model.pkl                 # Trained Logistic Regression model
+├── scaler.pkl                # Scaler for numeric features
+├── label_encoders.pkl        # Encoders for categorical features
+├── train_notebook.ipynb      # Full training pipeline
+├── test_notebook.ipynb       # Prediction and visualization
+├── requirements.txt          # Project dependencies
+└── README.md                 # This file
+
 
 ---
 
