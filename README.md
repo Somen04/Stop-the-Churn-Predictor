@@ -12,9 +12,9 @@ This project predicts whether a telecom customer is likely to churn based on the
 ├── model.pkl                 # Trained Logistic Regression model
 ├── scaler.pkl                # Scaler for numeric features
 ├── label_encoders.pkl        # Encoders for categorical features
-├── train_notebook.ipynb      # Full training pipeline
-├── test_notebook.ipynb       # Prediction and visualization
-├── requirements.txt          # Project dependencies
+├── churn_train.ipynb         # Full training pipeline
+├── churn_test.ipynb          # Prediction
+├── churn_visualization,ipynb # visualization
 └── README.md                 # This file
 ```
 
